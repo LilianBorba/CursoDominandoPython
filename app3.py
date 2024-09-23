@@ -57,5 +57,5 @@ if aceite:
     # Exibir a idade se desejado
     st.write(f"Idade: {idade}")
     st.button("Cadastrar")
-#Teste
+#Teste2
 
